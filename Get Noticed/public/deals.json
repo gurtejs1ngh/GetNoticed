@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "day":"Monday",
+    "detail":"2 for 1"
+  },
+  {
+    "id":2,
+    "day":"Tuesday",
+    "detail":"1 side free with each meal"
+  },
+  {
+    "id":3,
+    "day":"Wednesday",
+    "detail":"Under 10 kids (max 2) eat free with 2X parent orders"
+  },
+  {
+    "id":4,
+    "day":"Thursday",
+    "detail":"Complementary drink each for a group of 6+"
+  }
+]
